@@ -1,8 +1,10 @@
-# todo
+# TO DO
+
+To-do lists offer a way to increase productivity, stop you from forgetting things, help prioritize tasks, manage tasks effectively, and use time wisely. The To-Do app is based on an MVC pattern with local storage. This App is for both Android and IOS. Using GETX as State Management with GETX storage
 
 A new Flutter project.
 
-## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
